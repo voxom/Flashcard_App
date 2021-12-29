@@ -5,7 +5,7 @@ export default function CardList({handleDelete, cards, id}) {
   return (
     <div className="card-body">
       <h2 className="card-title">Cards</h2>
-      {cards.length > 0 ? (
+      {cards.length ? (
         cards.map((card, index) => {
           return (
             <div className="card mb-4 bg-light" key={index}>
