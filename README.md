@@ -34,33 +34,33 @@ Design the layout of the app and implemented all required functionalities.
 * CSS
 
 ## Home
-![Home](/images/home.PNG)
+![Home](/images/home.png)
 
 ## Deck
-![Deck](/images/deck-deckId.PNG)
+![Deck](/images/deck-deckId.png)
 
 ## Create Deck
-![Create Deck](/images/create-deck.PNG)
+![Create Deck](/images/create-deck.png)
 
 ## Edit Deck
-![Edit Deck](/images/edit-deck.PNG)
+![Edit Deck](/images/edit-deck.png)
 
 ## Add Card
-![Add Card](/images/add-card.PNG)
+![Add Card](/images/add-card.png)
 
 ## Edit Card
-![Edit Card](/images/edit-card.PNG)
+![Edit Card](/images/edit-card.png)
 
 ## Delete Deck
-![Delete Deck](/images/delete-deck.PNG)
+![Delete Deck](/images/delete-deck.png)
 
 ## Delete Card
-![Delete Card](/images/delete-card.PNG)
+![Delete Card](/images/delete-card.png)
 
 ## Study
 ### Front
-![Study Front](/images/study-front.PNG)
+![Study Front](/images/study-front.png)
 ### Back
-![Study Back](/images/study-back.PNG)
+![Study Back](/images/study-back.png)
 ### Not Enough Cards
-![No Cards](/images/not-enough-cards.PNG)
+![No Cards](/images/not-enough-cards.png)
