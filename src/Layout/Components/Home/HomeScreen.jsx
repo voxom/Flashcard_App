@@ -22,7 +22,7 @@ export default function HomeScreen({ decks, handleDelete }) {
               <div className="card-body d-flex flex-column justify-content-between">
                 <p className="card-text">{deck.description}</p>
                 <div className="d-flex row justify-content-around">
-                  <Link className="btn btn-success" to={`/decks/${deck.id}`}>
+                  <Link className="btn btn-secondary" to={`/decks/${deck.id}`}>
                     <i className="bi bi-eye mr-2" alt="eye"></i>
                     View
                   </Link>
