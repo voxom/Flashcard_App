@@ -37,7 +37,7 @@ Design the layout of the app and implemented all required functionalities.
 ![Home](/images/home.png)
 
 ## Deck
-![Deck](/images/deck-deckId.png)
+![Deck](/images/create-deck-deckId.png)
 
 ## Create Deck
 ![Create Deck](/images/create-deck.png)
